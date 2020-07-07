@@ -1,0 +1,3 @@
+Total_months: 86
+Net_total_amount: 38382578
+avg_amount:-2315.1176470588234
